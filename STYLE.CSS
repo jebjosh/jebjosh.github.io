@@ -1,0 +1,69 @@
+body{
+	background:#19494d;
+	margin:0 auto;
+	
+	
+}
+
+nav{
+	
+	background:#111111;
+	 position:fixed;
+	 width:100%;
+	 margin:0 auto;
+	 text-align:center;
+}
+
+ul{
+	list-style-type:none; padding:10;margin:10;
+	
+}
+
+li{display:inline-block;margin-left:40;}
+
+li a{font-family:Raleway,sans-serif; text-decoration:none;color:white;font-size:15px;}
+
+li a:hover{color:#cfb21a;}
+
+.pane{
+		background-attachment:fixed;
+	height:100%;
+	
+	background-image:url("pics/slide5.jpg");
+	background-size:cover;
+}
+
+.subPane{
+	background-color:#111111;
+	height:30%;
+}
+
+.texts{
+	padding:30px;
+	
+	color:white;
+	
+	width:650px;
+	
+	
+	
+}
+
+.texts h1{
+	font-family:'Crete Round',Raleway;
+	color:#cfb21a;
+	padding:20px;
+	font-size:50px;
+	
+}
+.texts p{
+	font-family:'Crete Round',sans-serif;
+	padding:20px;
+	font-size:18px;
+	
+}
+
+.texts a{
+	
+	color:#cfb21a;
+}
